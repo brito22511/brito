@@ -1,0 +1,111 @@
+[21:41:13] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.11+10-1-24.04.2-Ubuntu; Ubuntu null) on Linux 6.8.0-1052-azure (amd64)
+[21:41:13] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[21:41:13] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:41:14] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[21:41:14] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+ - Essentials (2.22.0), LuckPerms (5.5.53)
+[21:41:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:41:22] [ServerMain/INFO]: Loaded 1407 recipes
+[21:41:22] [ServerMain/INFO]: Loaded 1520 advancements
+[21:41:23] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[21:41:23] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 418.1ms
+[21:41:23] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[21:41:23] [Server thread/INFO]: Loading properties
+[21:41:23] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[21:41:23] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:41:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:41:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:41:24] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[21:41:24] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[21:41:25] [Server thread/INFO]: Default game type: SURVIVAL
+[21:41:25] [Server thread/INFO]: Generating keypair
+[21:41:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:41:25] [Server thread/INFO]: Using epoll channel type
+[21:41:25] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:41:25] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[21:41:25] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.53
+[21:41:26] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[21:41:26] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.0
+[21:41:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:41:26] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.53
+[21:41:26] [Server thread/INFO]:         __    
+[21:41:26] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.53
+[21:41:26] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[21:41:26] [Server thread/INFO]: 
+[21:41:26] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[21:41:27] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[21:41:27] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[21:41:27] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1132ms)
+[21:41:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:41:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:41:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:41:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:41:27] [Server thread/INFO]: Preparing level "world"
+[21:41:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:41:28] [Server thread/INFO]: Preparing spawn area: 0%
+[21:41:28] [Server thread/INFO]: Preparing spawn area: 0%
+[21:41:29] [Server thread/INFO]: Preparing spawn area: 18%
+[21:41:29] [Server thread/INFO]: Time elapsed: 1310 ms
+[21:41:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:41:29] [Server thread/INFO]: Preparing spawn area: 0%
+[21:41:29] [Server thread/INFO]: Time elapsed: 252 ms
+[21:41:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:41:29] [Server thread/INFO]: Preparing spawn area: 0%
+[21:41:29] [Server thread/INFO]: Time elapsed: 162 ms
+[21:41:29] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0
+[21:41:30] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[21:41:30] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[21:41:30] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[21:41:30] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[21:41:30] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[21:41:30] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[21:41:30] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[21:41:30] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[21:41:30] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[21:41:30] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[21:41:30] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[21:41:30] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[21:41:30] [Server thread/INFO]: [Essentials] Selected Paper 1.13+ Tile Entity Provider as the provider for TileEntityProvider
+[21:41:30] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[21:41:30] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[21:41:30] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[21:41:30] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[21:41:30] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[21:41:31] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[21:41:31] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[21:41:31] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[21:41:31] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[21:41:31] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[21:41:31] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[21:41:31] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[21:41:31] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[21:41:31] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[21:41:31] [Server thread/INFO]: [Essentials] Loaded 46312 items from items.json.
+[21:41:31] [Server thread/INFO]: [Essentials] Using locale en
+[21:41:31] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[21:41:31] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[21:41:31] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[21:41:31] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[21:41:31] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[21:41:32] [Server thread/INFO]: [spark] Starting background profiler...
+[21:41:32] [Server thread/INFO]: Done preparing level "world" (5.475s)
+[21:41:32] [Server thread/INFO]: Running delayed init tasks
+[21:41:32] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[21:41:32] [Server thread/INFO]: Done (20.302s)! For help, type "help"
+[21:43:38] [User Authenticator #0/INFO]: UUID of player Tmw_juan is ef70cbbe-001b-3964-9e89-729cf4147a2d
+[21:43:38] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms]
+[21:43:40] [Server thread/INFO]: Tmw_juan joined the game
+[21:43:40] [Server thread/INFO]: Tmw_juan[/100.118.127.43:61105] logged in with entity id 26 at ([world]-412.06028133494993, 62.9375, 1937.5628506375485)
+[21:44:23] [Server thread/INFO]: Tmw_juan issued server command: /homes aldea
+[21:44:27] [Server thread/INFO]: Tmw_juan issued server command: /homes casa
+[21:45:34] [Server thread/INFO]: Tmw_juan lost connection: Disconnected
+[21:45:34] [Server thread/INFO]: Tmw_juan left the game
+[21:51:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4880ms or 97 ticks behind
+[22:19:54] [User Authenticator #1/INFO]: UUID of player Tmw_juan is ef70cbbe-001b-3964-9e89-729cf4147a2d
+[22:19:54] [Server thread/INFO]: Tmw_juan joined the game
+[22:19:54] [Server thread/INFO]: Tmw_juan[/100.118.127.43:63752] logged in with entity id 714 at ([world]364.74463685502906, 80.0, 23.69999998807907)
+[22:21:34] [Server thread/INFO]: Tmw_juan lost connection: Disconnected
+[22:21:34] [Server thread/INFO]: Tmw_juan left the game
+[22:22:13] [User Authenticator #2/INFO]: UUID of player Tmw_juan is ef70cbbe-001b-3964-9e89-729cf4147a2d
+[22:22:14] [Server thread/INFO]: Tmw_juan joined the game
+[22:22:14] [Server thread/INFO]: Tmw_juan[/100.118.127.43:56791] logged in with entity id 969 at ([world]364.74463685502906, 80.0, 23.69999998807907)

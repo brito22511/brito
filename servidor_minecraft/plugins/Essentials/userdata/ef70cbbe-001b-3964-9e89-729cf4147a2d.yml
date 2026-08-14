@@ -1,0 +1,96 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 100.118.127.43
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1786743867964
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1786746094211
+  login: 1786746134267
+money: '0'
+last-account-name: Tmw_juan
+logoutlocation:
+  world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+  world-name: world
+  x: 364.74463685502906
+  y: 80.0
+  z: 23.69999998807907
+  yaw: -162.89157104492188
+  pitch: 4.799980640411377
+lastlocation:
+  world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+  world-name: world
+  x: -413.5
+  y: 62.9375
+  z: 1939.5
+  yaw: -84.88873291015625
+  pitch: 25.49993896484375
+homes:
+  home:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: 340.19017219430503
+    y: 87.0
+    z: 24.280107784234694
+    yaw: -86.09976196289062
+    pitch: 25.800006866455078
+  mina:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: -890.3688957904989
+    y: 66.0
+    z: 504.56968346483836
+    yaw: 67.5013427734375
+    pitch: 57.450016021728516
+  casa:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: 340.8281414086326
+    y: 87.0
+    z: 24.780506507288077
+    yaw: 177.6085205078125
+    pitch: 13.34997844696045
+  arbol:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: 72.76033070667714
+    y: 72.0
+    z: 2027.80474002203
+    yaw: -3.2880859375
+    pitch: 23.249990463256836
+  bioma:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: 448.83047325252465
+    y: 84.0
+    z: 2127.890026567052
+    yaw: -43.638275146484375
+    pitch: 33.89999008178711
+  mansion:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: 713.5569837501959
+    y: 75.0
+    z: 2028.323544817673
+    yaw: -89.988037109375
+    pitch: 8.850016593933105
+  aldea:
+    world: bbfacca8-fbe1-4b80-8a69-c67a52d222db
+    world-name: world
+    x: -413.99955772926677
+    y: 63.0
+    z: 1939.97202228845
+    yaw: -84.88873291015625
+    pitch: 25.49993896484375
